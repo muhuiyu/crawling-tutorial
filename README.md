@@ -1,6 +1,6 @@
 # Tutorial for UX Sharing - Web crawling with Python
 
-Author: muyu (muhuiyu.grace@gmail.com)
+Author: Grace, Mu-Hui Yu (muhuiyu.grace@gmail.com)
 
 ## Content
 1. Getting Started with python, bs4, and requests (ex: IMDB)
