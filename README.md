@@ -1,4 +1,4 @@
-# Tutorial for UX Sharing - Web crawling with Python
+# Workshop in SEA: Web crawling with Python 101
 
 Author: Grace, Mu-Hui Yu (muhuiyu.grace@gmail.com)
 
