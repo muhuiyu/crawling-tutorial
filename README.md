@@ -1,6 +1,6 @@
 # Workshop in SEA: Web crawling with Python 101
 
-Author: Grace, Mu-Hui Yu (muhuiyu.grace@gmail.com)
+Author & speaker: Grace, Mu-Hui Yu (muhuiyu.grace@gmail.com)
 
 ## Content
 1. Getting Started with python, bs4, and requests (ex: IMDB)
